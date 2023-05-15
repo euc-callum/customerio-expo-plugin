@@ -1,6 +1,6 @@
 {
-  "name": "customerio-expo-plugin",
-  "version": "1.0.0-beta.8",
+  "name": "@eucalyptusvc/customerio-expo-plugin",
+  "version": "1.0.0-beta.11",
   "description": "Expo config plugin for the Customer IO React Native SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -30,12 +30,12 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/customerio/customerio-expo-plugin",
+  "repository": "https://github.com/euc-callum/customerio-expo-plugin",
   "author": "ami-segun <segun@customer.io> (https://customer.io/)",
   "bugs": {
-    "url": "https://github.com/customerio/customerio-expo-plugin/issues"
+    "url": "https://github.com/euc-callum/customerio-expo-plugin/issues"
   },
-  "homepage": "https://github.com/customerio/customerio-expo-plugin#readme",
+  "homepage": "https://github.com/euc-callum/customerio-expo-plugin#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
